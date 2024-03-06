@@ -5,37 +5,28 @@ Welcome to my repository for the "Machine Learning with Python" course offered b
 
 ## Course Details
 - **Instructor:** Prof. Andrew Ng
-- **Platform:** Coursera
-- **Duration:** [Insert duration of the course]
-- **Completion Date:** [Insert completion date]
+- **Platform:** Coursera , Stanford Online
+- **Duration: 2 months
+- **Completion Date:** March 6th, 2024
 
 ## About the Project
-### Project Title: [Insert Your Project Title]
-Briefly describe the purpose and goal of your project. Highlight any specific challenges you tackled or interesting aspects you explored.
+### Project Title: Logistics Regression - Gradient Descent and Cost Function
 
 ## Files Included
-- [List the main files in your project and briefly describe their purpose.]
+- Advanced Learning Algorithms
+- Supervised Machine Learning
+- Unsupervised Machine Learning
 
 ## Getting Started
-If someone wants to run your project or explore the code, provide instructions on how to get started. Include any dependencies and installation steps.
-
-## How I Feel About the Course
-Share your thoughts and feelings about the course. You may want to include:
-- What you enjoyed the most
-- Any challenging aspects
-- How the course has impacted your understanding of machine learning
-- Future plans or projects inspired by the course
+If you have any difficulty during the process of learning, you could view my project for materials and codes.
 
 ## Acknowledgments
-Give credit to any resources, libraries, or individuals who contributed to your project or learning experience.
+The materials belong to Coursera and Stanford Online, I only convert them and apply to finish the project later on
 
 ## Contact Information
-Provide your contact information or links to your social media profiles if you're open to collaboration or further discussions about the project.
-
-## License
-Specify the license under which you're sharing your project. For example, you can use an open-source license like MIT or Apache.
+You can contact me through: https://www.linkedin.com/in/tranvinhluan/
 
 ## Feedback
 If you have any feedback or suggestions for improvement, please feel free to open an issue or reach out.
 
-Happy coding!
+Happy learning !
